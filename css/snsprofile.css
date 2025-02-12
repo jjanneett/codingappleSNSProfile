@@ -1,0 +1,26 @@
+
+
+i {
+    color: #6fbaf8;
+}
+
+.main-background {
+    width: 100%;
+    height: 1800px;
+    background-color: #f7f9fc ;
+    border-bottom: 1px solid black;
+}
+
+
+
+
+
+.center-position {
+    justify-content: center; /* 내부 텍스트 수평 중앙 */
+    align-items: center; /* 내부 텍스트 수직 중앙 */
+    text-align: center;
+}
+
+body {
+    background-color:  #f7f9fc
+}
